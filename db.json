@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctor Appointment",
+      "day": "Apr 7,2024",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Buy Grocery",
+      "day": "Apr 8,2024",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Pick up Son",
+      "day": "Apr 7,2024",
+      "reminder": true
+    },
+    {
+      "id": "5",
+      "text": "Buy TV",
+      "day": "Apr 8,2024",
+      "reminder": false
+    },
+    {
+      "id": "6",
+      "text": "Pick up daughter",
+      "day": "Apr 7,2024",
+      "reminder": true
+    }
+  ]
+}
